@@ -1,11 +1,13 @@
 ---
+updated: 2025-09-20T05:44:46Z
 name: h5-subapp-platform
 status: backlog
 created: 2025-09-20T03:27:18Z
 progress: 0%
 prd: .claude/prds/h5-subapp-platform.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/markfredchen/mozac-subapp/issues/1
 ---
+updated: 2025-09-20T05:44:46Z
 
 # Epic: H5 Sub-Application Platform
 
@@ -70,22 +72,20 @@ Build a comprehensive H5 sub-application platform using React 18, TypeScript, pn
 - Performance testing on target mobile devices
 
 ## Tasks Created
-- [ ] 001.md - Monorepo Setup and Workspace Configuration (parallel: true)
-- [ ] 002.md - CLI Foundation and Project Scaffolding (parallel: false)
-- [ ] 003.md - Core Build System with Vite (parallel: true)
-- [ ] 004.md - Shared Component Library Foundation (parallel: true)
-- [ ] 005.md - Sub-App Template and Boilerplate (parallel: false)
-- [ ] 006.md - Hot-Reloading Development Server (parallel: true)
-- [ ] 007.md - Zip Packaging and Bundle System (parallel: true)
-- [ ] 008.md - Performance Monitoring and Bundle Analysis (parallel: true)
-- [ ] 009.md - Documentation and API Guides (parallel: true)
-- [ ] 010.md - Native App Integration Examples (parallel: true)
+- [ ] #2 - monorepo-setup-workspace-configuration (parallel: true)
+- [ ] #3 - Zip Packaging and Bundle System (parallel: true)
+- [ ] #4 - Performance Monitoring and Bundle Analysis (parallel: true)
+- [ ] #5 - cli-foundation-project-scaffolding (parallel: false)
+- [ ] #6 - Shared Component Library Foundation (parallel: true)
+- [ ] #7 - Documentation and API Guides (parallel: true)
+- [ ] #8 - Native App Integration Examples (parallel: true)
+- [ ] #9 - Sub-App Template and Boilerplate (parallel: false)
+- [ ] #10 - Hot-Reloading Development Server (parallel: true)
+- [ ] #11 - core-build-system-vite (parallel: true)
 
 Total tasks: 10
 Parallel tasks: 8
 Sequential tasks: 2
-Estimated total effort: 214 hours
-
 ## Dependencies
 
 **External Dependencies**
